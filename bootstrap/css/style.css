@@ -1,0 +1,38 @@
+.navbar {
+    background-color: rebeccapurple;
+    font-size: 30px;
+    padding: 0 10px;
+    
+}
+
+.quem-somos{
+    background-color: palevioletred;
+    color: white;
+}
+
+.margem {
+    padding: 20px;
+}
+
+.parceiros {
+    background-color: rgb(110, 110, 199);
+    color: white;
+}
+
+.row {
+    padding: 2%;
+}
+
+.servicos {
+    color: white;
+    background-color: rgb(228, 2, 160);
+    font-weight: bold;
+}
+
+.servicos p {font-weight: 100;
+padding-top: 1%;}
+
+.desenvolvedor {
+    background-color: darkblue;
+    color: white;
+}
